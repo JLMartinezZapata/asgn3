@@ -5,6 +5,6 @@
 
 ### Born on February 28, 1976 in San Antonio.
 
-###Married to my beautiful wife of 16 years and 3 Super Kids.
+### Married to my beautiful wife of 16 years and 3 Super Kids.
 
 ![Alt text](Kids.jpg)
