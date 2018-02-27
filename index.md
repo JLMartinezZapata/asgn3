@@ -26,7 +26,7 @@ Hello My name is Joe creator of this world.
 ### Married to my beautiful wife of 16 years and 3 Super Kids.
 
 
-[Cherie](Cherie.jpg)
+![Cherie](Cherie.jpg)
 
 
 ![Kids](Kids.jpg)
