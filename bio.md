@@ -9,8 +9,6 @@
   
 
 ### Married to my beautiful wife of 16 years and 3 Super Kids.
-
 ![Cherie](Cherie.jpg)
-
 
 ![Kids](Kids.jpg)
