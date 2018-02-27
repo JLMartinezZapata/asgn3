@@ -8,7 +8,7 @@
   
 <p>4 days later on February 28,1997 I celebrated my 21st birthday with all my new friends.  We had a great time!
   
-[myBirthday](<www.youtube.com/embed/inTqPMvL5W8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
+[Link text](<www.youtube.com/embed/inTqPMvL5W8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
 
 ### Married to my beautiful wife of 16 years and 3 Super Kids.
 
