@@ -21,6 +21,6 @@ Hello My name is Joe creator of this world.
 
 
 
-![Cherie](Cherie.jpg)
+[Cherie](Cherie.jpg)
 
-![Kids](Kids.jpg)
+[Kids](Kids.jpg)
