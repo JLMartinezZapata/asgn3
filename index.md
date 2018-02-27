@@ -15,8 +15,10 @@ Hello My name is Joe creator of this world.
   
 <p>4 days later on February 28,1997 I celebrated my 21st birthday with all my new friends. ("www.youtube.com/embed/inTqPMvL5W8") We had a great time!
   
+  
 
 ### Married to my beautiful wife of 16 years and 3 Super Kids.
+
 ![Cherie](Cherie.jpg)
 
 ![Kids](Kids.jpg)
