@@ -6,8 +6,6 @@ Hello My name is Joe creator of this world.
 
 #### "TEXAS FOREVER"
 
-bio.md
-
 
 ## My Name is Joe Martinez
 
