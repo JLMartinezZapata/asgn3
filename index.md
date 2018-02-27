@@ -18,15 +18,11 @@ Hello My name is Joe creator of this world.
   
 <p>Four days later on February 28,1997 I celebrated my 21st birthday with all my new friends.<p>
   
-[bing] (https://www.bing.com/videos/search?q=marine+recruits+getting+it&&view=detail&mid=C441BE309161DD2CCC15C441BE309161DD2CCC15&&FORM=VRDGAR)
+[bing](https://www.bing.com/videos/search?q=marine+recruits+getting+it&&view=detail&mid=C441BE309161DD2CCC15C441BE309161DD2CCC15&&FORM=VRDGAR)
 
 <p>We had a great time!<p>
   
 
 ## Married to my beautiful wife of 16 years and 3 Super Kids.
-
-
 ![Cherie](Cherie.jpg)
-
-
 ![Kids](Kids.jpg)
